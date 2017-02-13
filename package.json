@@ -1,0 +1,22 @@
+{
+  "name": "react-native-ios-status-bar-padding",
+  "version": "1.0.0",
+  "description": "Status bar padding for ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davinci2015/react-native-ios-status-bar-padding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davinci2015/react-native-ios-status-bar-padding/issues"
+  },
+  "homepage": "https://github.com/davinci2015/react-native-ios-status-bar-padding#readme",
+  "dependencies": {
+    "react-native-status-bar-size": "^0.3.2"
+  }
+}

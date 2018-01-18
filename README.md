@@ -25,3 +25,8 @@ class ExampleComponent extends Component {
 
 export default ExampleComponent;
 ```
+
+Provide custom styles to bar (applies only in iOS)
+```js
+<StatusBarPaddingIOS style={{backgroundColor: 'red'}}/>
+```

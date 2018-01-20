@@ -9,5 +9,5 @@ export default props => (
                 height: StatusBarSizeIOS.currentHeight
             }, props.style || {})}
         />
-        : <View/>
+        : null
 );
